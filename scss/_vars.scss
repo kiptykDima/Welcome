@@ -1,0 +1,13 @@
+$text: #1e1e1e;
+$global: #F9BDBD;
+
+
+@mixin f500 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+
+@mixin f800 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
